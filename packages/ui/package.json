@@ -4,7 +4,7 @@
   "description": "> TODO: description",
   "author": "Alien-Chen <522864794@qq.com>",
   "homepage": "",
-  "license": "ISC",
+  "license": "MIT",
   "main": "src/index.js",
   "source": "src/index.js",
   "repository": {
@@ -48,5 +48,6 @@
   },
   "dependencies": {
     "vue": "^2.5.0"
-  }
+  },
+  "gitHead": "7ff60493b48a847db3f69616f5d10246024fc600"
 }
