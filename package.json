@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "publish": "lerna publish --conventional-commits"
+    "publish": "lerna publish"
   },
   "keywords": [],
   "author": "",
