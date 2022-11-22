@@ -1,0 +1,17 @@
+{
+  "packages": [
+    "packages/zz-taro-ui"
+  ],
+  "command": {
+    "publish": {
+      "message": "chore(release): publish %s"
+    }
+  },
+  "create": {
+    "homepage": "https://github.com/Alien-Chen/vue-taro-ui",
+    "license": "MIT"
+  },
+  "$schema": "node_modules/lerna/schemas/lerna-schema.json",
+  "useWorkspaces": true,
+  "version": "0.0.0"
+}
